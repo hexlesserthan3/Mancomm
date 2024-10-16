@@ -1,0 +1,21 @@
+# List of flags
+
+- level 0: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+- level 1: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+- level 2: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+- level 3: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+- level 4: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+- level 5: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+- level 6: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+- level 7: TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+- level 8: EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+- level 9: G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+- level 10: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+- level 11: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
+- level 12: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
+- level 13: fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
+- level 14: jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
+- level 15: JQttfApK4SeyHwDlI9SXGR50qclOAil1
+- level 16: VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
+- level 17: hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg p6ggwdNHncnmCNxuAt0KtKVq185ZU7AW
+- level 18: awhqfNnAbc1naukrpqDYcF95h7HoMTrC
