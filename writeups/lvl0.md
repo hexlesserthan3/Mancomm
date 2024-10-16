@@ -8,7 +8,7 @@ The password for the next level is stored in a file called readme located in t
 - exit – exiting the server
 
 ## Solution:
-![](././images/0.jpg)
+![](https://github.com/hexlesserthan3/Mancomm/images/0.jpg)
 1. used ls to find the file ‘readme’.
 2. used the command cat to find the password from the file readme.
 3. exited the server and went to the next level
